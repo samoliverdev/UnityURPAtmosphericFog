@@ -1,7 +1,7 @@
 ![alt text](Image.png)
 
 # UnityURPAtmosphericFog
-AtmosphericFog for Urp pipiline using Shader Graph
+AtmosphericFog for Urp pipeline using Shader Graph
 
 https://youtu.be/_0VDW6RKSkQ
 
