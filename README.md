@@ -3,6 +3,8 @@
 # UnityURPAtmosphericFog
 AtmosphericFog for Urp pipiline using Shader Graph
 
+https://youtu.be/_0VDW6RKSkQ
+
 ## How use:
 Add AtmosphericFogRenderFeature in your urp Asset_Renderer and fun with the parameters
 
