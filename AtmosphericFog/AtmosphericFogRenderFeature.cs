@@ -39,6 +39,7 @@ namespace OD {
 
             public override void Execute(ScriptableRenderContext context, ref RenderingData renderingData){
                 if (material == null || settings == null) return;
+                if(renderingData.cameraData.cameraType != CameraType.Game && renderingData.cameraData.cameraType != CameraType.SceneView) return;
 
                 CommandBuffer cmd = CommandBufferPool.Get();
                 cmd.Clear();
